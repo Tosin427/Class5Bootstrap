@@ -21,8 +21,36 @@ body {
 
 .navbar-nav li {
     padding: 0 10px;
+    
 }
 
 .navbar-nav li a {
     color: #fff !important;
+    font-weight: 600;
+    float: right;
 }
+
+.fa-bars {
+    color: #fff;
+    font-size: 30px !important;
+}
+
+.navbar-toggler {
+    outline: none !important;
+}
+
+
+.carousel-inner img {
+    width: 900px;
+    height: 720px;
+}
+
+.carousel-caption h5 {
+    font-size: 100px;
+    text-transform: uppercase;
+}
+
+.carousel-caption p {
+    font-size: 50px;
+}
+
