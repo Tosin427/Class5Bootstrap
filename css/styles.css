@@ -54,3 +54,111 @@ body {
     font-size: 50px;
 }
 
+.graph p {
+    color: #999;
+    line-height: 25px;
+}
+
+.ft-top {
+    background-color: #111;
+    padding: 80px 80px;
+    margin-top: 50px;
+}
+
+.graph h3 {
+    color: #fff;
+    
+}
+
+.first h3 {
+    color: #fff;
+    letter-spacing: 3px;
+    margin: 10px 0;
+}
+
+.second h2 {
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+
+.second h2:before {
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+}
+
+.second ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.second ul li {
+    border-bottom: 1px solid rgba(255,255,255,0.3);
+    line-height: 40px;
+}
+
+.second ul li a {
+    color: #999;
+    text-decoration: none;
+}
+
+
+.third h2 {
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.third h2:before {
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+}
+
+.third a {
+    background: #494848;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.third a i {
+    font-size: 20px;
+    color: #fff;
+    padding: 10px 12px;
+}
+
+.fm1 {
+    font-size: 12px;
+    
+}
+
+.fourth h3 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 26px;
+}
+
+.fourth h3::before {
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+}
+
+.fourth form input[type=submit] {
+    background-color:#c65039 ;
+    border: none;
+    padding: 3px 15px;
+    color: #fff;    
+}
+
+.ft-bot {
+    text-align: center;
+    background-color: #000;
+    line-height: 75px;
+    color: antiquewhite;
+}
+
+
